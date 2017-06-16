@@ -1,0 +1,6 @@
+D:\Programming\Projects\PluralSight\WCF\WCF Jumpstart\HelloWCF\HelloWCF\bin\Debug\HelloWCF.dll.config
+D:\Programming\Projects\PluralSight\WCF\WCF Jumpstart\HelloWCF\HelloWCF\bin\Debug\HelloWCF.dll
+D:\Programming\Projects\PluralSight\WCF\WCF Jumpstart\HelloWCF\HelloWCF\bin\Debug\HelloWCF.pdb
+D:\Programming\Projects\PluralSight\WCF\WCF Jumpstart\HelloWCF\HelloWCF\obj\Debug\HelloWCF.csprojResolveAssemblyReference.cache
+D:\Programming\Projects\PluralSight\WCF\WCF Jumpstart\HelloWCF\HelloWCF\obj\Debug\HelloWCF.dll
+D:\Programming\Projects\PluralSight\WCF\WCF Jumpstart\HelloWCF\HelloWCF\obj\Debug\HelloWCF.pdb

@@ -1,0 +1,14 @@
+D:\Programming\Projects\PluralSight\WCF\WCF Jumpstart\HelloWCF\HelloWCFClient\bin\Debug\HelloWCFClient.exe.config
+D:\Programming\Projects\PluralSight\WCF\WCF Jumpstart\HelloWCF\HelloWCFClient\bin\Debug\HelloWCFClient.exe
+D:\Programming\Projects\PluralSight\WCF\WCF Jumpstart\HelloWCF\HelloWCFClient\bin\Debug\HelloWCFClient.pdb
+D:\Programming\Projects\PluralSight\WCF\WCF Jumpstart\HelloWCF\HelloWCFClient\obj\Debug\HelloWCFClient.csprojResolveAssemblyReference.cache
+D:\Programming\Projects\PluralSight\WCF\WCF Jumpstart\HelloWCF\HelloWCFClient\obj\Debug\MainWindow.g.cs
+D:\Programming\Projects\PluralSight\WCF\WCF Jumpstart\HelloWCF\HelloWCFClient\obj\Debug\App.g.cs
+D:\Programming\Projects\PluralSight\WCF\WCF Jumpstart\HelloWCF\HelloWCFClient\obj\Debug\HelloWCFClient_MarkupCompile.cache
+D:\Programming\Projects\PluralSight\WCF\WCF Jumpstart\HelloWCF\HelloWCFClient\obj\Debug\HelloWCFClient_MarkupCompile.lref
+D:\Programming\Projects\PluralSight\WCF\WCF Jumpstart\HelloWCF\HelloWCFClient\obj\Debug\MainWindow.baml
+D:\Programming\Projects\PluralSight\WCF\WCF Jumpstart\HelloWCF\HelloWCFClient\obj\Debug\HelloWCFClient.g.resources
+D:\Programming\Projects\PluralSight\WCF\WCF Jumpstart\HelloWCF\HelloWCFClient\obj\Debug\HelloWCFClient.Properties.Resources.resources
+D:\Programming\Projects\PluralSight\WCF\WCF Jumpstart\HelloWCF\HelloWCFClient\obj\Debug\HelloWCFClient.csproj.GenerateResource.Cache
+D:\Programming\Projects\PluralSight\WCF\WCF Jumpstart\HelloWCF\HelloWCFClient\obj\Debug\HelloWCFClient.exe
+D:\Programming\Projects\PluralSight\WCF\WCF Jumpstart\HelloWCF\HelloWCFClient\obj\Debug\HelloWCFClient.pdb
